@@ -44,7 +44,7 @@ async def _(event):
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 84%\n█████████████████████▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 100%\n█████████████████████████ `",
-            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nReault: No Virus Found...`"
+            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nReault: No Virus Found...\nYou Are Good To GO`"
         ]
 
         for i in animation_ttl:
@@ -123,7 +123,7 @@ async def _(event):
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 84%\n█████████████████████▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 100%\n█████████████████████████ `",
-            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nReault:⚠️Virus Found⚠️\nMore Info: Torzan, Spyware, Adware\nPro User @arnab431 Can Fix This File For $69 Only.`"
+            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nReault:⚠️Virus Found⚠️\nMore Info: Torzan, Spyware, Adware\nPro User` @lordvader98 `Can Fix This File For $69 Only.`"
         ]
 
         for i in animation_ttl:
