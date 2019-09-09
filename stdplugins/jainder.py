@@ -12,8 +12,6 @@ async def _(event):
     input_str = event.pattern_match.group(1)
     if input_str in "ex":
         emoticons = [
-            "u is mard",
-            "u is man",
             "u is aurat",
             "u is woman",
             "u is gey",
